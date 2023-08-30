@@ -1,0 +1,211 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "dnSpy.Console/6.1.8.0": {
+        "dependencies": {
+          "dnSpy.Contracts.Logic": "6.1.8",
+          "dnSpy.Decompiler": "6.1.8"
+        },
+        "runtime": {
+          "dnSpy.Console.dll": {}
+        },
+        "resources": {
+          "cs/dnSpy.Console.resources.dll": {
+            "locale": "cs"
+          },
+          "de/dnSpy.Console.resources.dll": {
+            "locale": "de"
+          },
+          "es-ES/dnSpy.Console.resources.dll": {
+            "locale": "es-ES"
+          },
+          "fa/dnSpy.Console.resources.dll": {
+            "locale": "fa"
+          },
+          "fr/dnSpy.Console.resources.dll": {
+            "locale": "fr"
+          },
+          "hu/dnSpy.Console.resources.dll": {
+            "locale": "hu"
+          },
+          "it/dnSpy.Console.resources.dll": {
+            "locale": "it"
+          },
+          "pt-BR/dnSpy.Console.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/dnSpy.Console.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "ru/dnSpy.Console.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/dnSpy.Console.resources.dll": {
+            "locale": "tr"
+          },
+          "uk/dnSpy.Console.resources.dll": {
+            "locale": "uk"
+          },
+          "zh-CN/dnSpy.Console.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
+      "dnlib/3.3.2": {
+        "dependencies": {
+          "System.Reflection.Emit": "4.7.0",
+          "System.Reflection.Emit.Lightweight": "4.7.0"
+        },
+        "runtime": {
+          "lib/netstandard2.0/dnlib.dll": {
+            "assemblyVersion": "3.3.2.0",
+            "fileVersion": "3.3.2.0"
+          }
+        }
+      },
+      "System.Reflection.Emit/4.7.0": {},
+      "System.Reflection.Emit.Lightweight/4.7.0": {},
+      "dnSpy.Contracts.Logic/6.1.8": {
+        "dependencies": {
+          "dnlib": "3.3.2"
+        },
+        "runtime": {
+          "dnSpy.Contracts.Logic.dll": {}
+        },
+        "resources": {
+          "cs/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "cs"
+          },
+          "de/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "de"
+          },
+          "es-ES/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "es-ES"
+          },
+          "fa/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "fa"
+          },
+          "fr/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "fr"
+          },
+          "hu/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "hu"
+          },
+          "it/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "it"
+          },
+          "pt-BR/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "ru/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "tr"
+          },
+          "uk/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "uk"
+          },
+          "zh-CN/dnSpy.Contracts.Logic.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
+      "dnSpy.Decompiler/6.1.8": {
+        "dependencies": {
+          "dnSpy.Contracts.Logic": "6.1.8"
+        },
+        "runtime": {
+          "dnSpy.Decompiler.dll": {}
+        },
+        "resources": {
+          "cs/dnSpy.Decompiler.resources.dll": {
+            "locale": "cs"
+          },
+          "de/dnSpy.Decompiler.resources.dll": {
+            "locale": "de"
+          },
+          "es-ES/dnSpy.Decompiler.resources.dll": {
+            "locale": "es-ES"
+          },
+          "fa/dnSpy.Decompiler.resources.dll": {
+            "locale": "fa"
+          },
+          "fr/dnSpy.Decompiler.resources.dll": {
+            "locale": "fr"
+          },
+          "hu/dnSpy.Decompiler.resources.dll": {
+            "locale": "hu"
+          },
+          "it/dnSpy.Decompiler.resources.dll": {
+            "locale": "it"
+          },
+          "pt-BR/dnSpy.Decompiler.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "pt-PT/dnSpy.Decompiler.resources.dll": {
+            "locale": "pt-PT"
+          },
+          "ru/dnSpy.Decompiler.resources.dll": {
+            "locale": "ru"
+          },
+          "tr/dnSpy.Decompiler.resources.dll": {
+            "locale": "tr"
+          },
+          "uk/dnSpy.Decompiler.resources.dll": {
+            "locale": "uk"
+          },
+          "zh-CN/dnSpy.Decompiler.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "dnSpy.Console/6.1.8.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dnlib/3.3.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-16p2zxL0d0FJ7POvunZ+9cn3mREmQD1rDm+1C1eIMDBRAuEGLCSWdIobrUNYP//DcfMRYHbpgB8Gh2BYjEkS2Q==",
+      "path": "dnlib/3.3.2",
+      "hashPath": "dnlib.3.3.2.nupkg.sha512"
+    },
+    "System.Reflection.Emit/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-VR4kk8XLKebQ4MZuKuIni/7oh+QGFmZW3qORd1GvBq/8026OpW501SzT/oypwiQl4TvT8ErnReh/NzY9u+C6wQ==",
+      "path": "system.reflection.emit/4.7.0",
+      "hashPath": "system.reflection.emit.4.7.0.nupkg.sha512"
+    },
+    "System.Reflection.Emit.Lightweight/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-a4OLB4IITxAXJeV74MDx49Oq2+PsF6Sml54XAFv+2RyWwtDBcabzoxiiJRhdhx+gaohLh4hEGCLQyBozXoQPqA==",
+      "path": "system.reflection.emit.lightweight/4.7.0",
+      "hashPath": "system.reflection.emit.lightweight.4.7.0.nupkg.sha512"
+    },
+    "dnSpy.Contracts.Logic/6.1.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "dnSpy.Decompiler/6.1.8": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
